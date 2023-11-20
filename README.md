@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HibaDehh
+- 👋 Hi, I’m @HibaDehhaoui
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on ...
